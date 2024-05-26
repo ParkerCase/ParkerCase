@@ -5,17 +5,13 @@
 
 - 🔭 I’m currently working on a project titled [Around the US](https://parkercase.github.io/se_project_aroundtheus/)
 
-- 🌱 I’m currently learning **Objects and Event Handling in JavaScript**
+- 🌱 I’m currently learning **Object Oriented Programming in JavaScript**
 
 - 👯 Before this I finished up a coffee shop-themed webpage [link](link)
 
-- 🤝 And up next, I plan to add some versatility to a webpage titled [From Homeland to Homeland](link)
-
 - 👨‍💻 All of my projects are available at [()](())
 
-- 📝 I regularly write articles on [()](())
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Figma, Git**
+- 💬 Ask me about **HTML, CSS, JavaScript, Figma, Git, WebPack**
 
 - 📫 How to reach me **ParkerE.Case@gmail.com**
 
