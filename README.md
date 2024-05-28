@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on a project titled [Around the US](https://parkercase.github.io/se_project_aroundtheus/)
 
-- 🌱 I’m currently learning **Object Oriented Programming in JavaScript**
+- 🌱 I’m currently learning **Asynchronous JavaScript and Working with APIs**
 
-- 👯 Before this I finished up a coffee shop-themed webpage [link](link)
+- 👯 Before this I finished up a coffee shop-themed webpage [link](https://github.com/ParkerCase/se_project_coffeeshop.git)
 
-- 👨‍💻 All of my projects are available at [()](())
+- 👨‍💻 All of my projects are available at [link](https://github.com/ParkerCase?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Figma, Git, WebPack**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [(resume link)]((resume link))
 
-- ⚡ Fun facts **I've done stand-up comedy for roughly 200 people, I've acted in multiple projects, and I've written film scripts featured in multiple film festivals**
+- ⚡ Fun facts **I've done stand-up comedy for roughly 200 people, I've acted in multiple film festival-level projects, and I've written film scripts featured in multiple international film festivals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
