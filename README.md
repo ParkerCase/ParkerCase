@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [link](https://github.com/ParkerCase?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Figma, Git, WebPack**
+- 💬 Ask me about **HTML, CSS, JavaScript, API, Figma, Git, WebPack**
 
 - 📫 How to reach me **ParkerE.Case@gmail.com**
 
