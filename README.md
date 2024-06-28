@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ParkerE.Case@gmail.com**
 
-- 📄 Know about my experiences [(resume link)]((resume link))
+- 📄 Know about my experiences [resume link](https://parkercase.co/images/ParkerCaseResume-3.pdf)
 
 - ⚡ Fun facts **I've done stand-up comedy for roughly 200 people, I've acted in multiple film festival-level projects, and I've written film scripts featured in multiple international film festivals**
 
