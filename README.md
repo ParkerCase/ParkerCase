@@ -1,23 +1,29 @@
-<h1 align="center">Hi 👋, I'm Parker Case</h1>
-<h3 align="center">A passionate frontend developer from San Diego, California</h3>
 
+<h1 align="center">Hi 👋, I'm Parker Case</h1>
+<h3 align="center">AI Software Engineer & Machine Learning Innovator in New York, New York</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parkercase" alt="parkercase" /></a> </p>
 
-- 🔭 I’m currently working on a project titled [Around the US](https://parkercase.github.io/se_project_aroundtheus/)
-
-- 🌱 I’m currently learning **Asynchronous JavaScript and Working with APIs**
-
-- 👯 Before this I finished up a coffee shop-themed webpage [link](https://github.com/ParkerCase/se_project_coffeeshop.git)
-
-- 👨‍💻 All of my projects are available at [link](https://github.com/ParkerCase?tab=repositories)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, API, Figma, Git, WebPack**
-
+- 🧠 I'm currently working on **AI Personal Stylist** - a patent-pending computer vision platform for personalized fashion recommendations
+- 🚀 I'm also developing **AI Knowledge Dashboard** - an intelligent chatbot system with potentially patentable NLP innovations
+- 🌱 I'm currently learning **Advanced Deep Learning, Computer Vision, and Large Language Model Fine-tuning**
+- 🌍 Recently completed **EcoScraper Pro** - an AI-powered keyword scraping tool for environmental conservation groups monitoring eBay, Craigslist, and Mercari
+- 🧘 Building **MentalSpace** - a social media platform for men's mental health with AI-powered content moderation
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/ParkerCase?tab=repositories)
+- 💬 Ask me about **Python, TensorFlow, PyTorch, NLP, Computer Vision, React, Node.js, AWS, Docker, Machine Learning, AI Ethics**
 - 📫 How to reach me **ParkerE.Case@gmail.com**
+- 📊 Check out my AI portfolio at **[parkercase.co](https://parkercase.co)**
+- ⚡ Fun facts **I've done stand-up comedy for roughly 200 people, I've acted in multiple film festival-level projects, I've written film scripts featured in multiple national and international film festivals, and I now use AI to solve real-world problems!**
 
-- 📄 Know about my experiences [resume link](https://parkercase.co/images/ParkerCaseResume-3.pdf)
+### 🔧 Current Tech Stack
+**AI/ML:** Python, TensorFlow, PyTorch, OpenAI GPT, Computer Vision, NLP, Scikit-learn  
+**Backend:** Node.js, PostgreSQL, MongoDB, Firebase, Docker, AWS  
+**Frontend:** React, React Native, JavaScript, HTML, CSS, WebPack 
+**Tools:** Git, Selenium, BeautifulSoup, WebRTC, Figma
 
-- ⚡ Fun facts **I've done stand-up comedy for roughly 200 people, I've acted in multiple film festival-level projects, and I've written film scripts featured in multiple international film festivals**
+### 🏆 Notable Achievements
+- 🔬 **2 Patent-Pending AI Innovations** in personal styling and knowledge management
+- 🌟 **Full-Stack AI Applications** from concept to production deployment
+- 🎯 **Specialized in AI for Social Good** - environmental conservation and mental health platforms
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
