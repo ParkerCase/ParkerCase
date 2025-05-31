@@ -8,7 +8,6 @@
 - 🌱 I'm currently learning **Advanced Deep Learning, Computer Vision, and Large Language Model Fine-tuning**
 - 🌍 Recently completed **EcoScraper Pro** - an AI-powered keyword scraping tool for environmental conservation groups monitoring eBay, Craigslist, and Mercari
 - 🧘 Building **MentalSpace** - a social media platform for men's mental health with AI-powered content moderation
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/ParkerCase?tab=repositories)
 - 💬 Ask me about **Python, TensorFlow, PyTorch, NLP, Computer Vision, React, Node.js, AWS, Docker, Machine Learning, AI Ethics**
 - 📫 How to reach me **ParkerE.Case@gmail.com**
 - 📊 Check out my AI portfolio at **[parkercase.co](https://parkercase.co)**
