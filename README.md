@@ -1,28 +1,61 @@
+# Hi, I'm Parker Case
+### Founder & CEO of StroomAI | AI Engineer specializing in Healthcare, Biochemical Modeling & Predictive Systems | New York, NY
 
-<h1 align="center">Hi 👋, I'm Parker Case</h1>
-<h3 align="center">AI Software Engineer & Machine Learning Innovator in New York, New York</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parkercase" alt="parkercase" /></a> </p>
+---
 
-- 🧠 I'm currently working on **AI Personal Stylist** - a patent-pending computer vision platform for personalized fashion recommendations
-- 🚀 I'm also developing **AI Knowledge Dashboard** - an intelligent chatbot system with potentially patentable NLP innovations
-- 🌱 I'm currently learning **Advanced Deep Learning, Computer Vision, and Large Language Model Fine-tuning**
-- 🌍 Recently completed **EcoScraper Pro** - an AI-powered keyword scraping tool for environmental conservation groups monitoring eBay, Craigslist, and Mercari
-- 🧘 Building **MentalSpace** - a social media platform for men's mental health with AI-powered content moderation
-- 💬 Ask me about **Python, TensorFlow, PyTorch, NLP, Computer Vision, React, Node.js, AWS, Docker, Machine Learning, AI Ethics**
-- 📫 How to reach me **ParkerE.Case@gmail.com**
-- 📊 Check out my AI portfolio at **[parkercase.co](https://parkercase.co)**
-- ⚡ Fun facts **I've done stand-up comedy for roughly 200 people, I've acted in multiple film festival-level projects, I've written film scripts featured in multiple national and international film festivals, and I now use AI to solve real-world problems!**
+## What I'm Working On
 
-### 🔧 Current Tech Stack
-**AI/ML:** Python, TensorFlow, PyTorch, OpenAI GPT, Computer Vision, NLP, Scikit-learn  
-**Backend:** Node.js, PostgreSQL, MongoDB, Firebase, Docker, AWS  
-**Frontend:** React, React Native, JavaScript, HTML, CSS, WebPack 
-**Tools:** Git, Selenium, BeautifulSoup, WebRTC, Figma
+**DOC (Digital Osteoarthritis Counseling)** — Clinical AI system predicting TKR risk (AUC 0.921) and WOMAC outcomes (R² 0.69), validated against Bergman Clinics data. PROBAST LOW RISK across all domains. In partnership with Dr. Maarten Moen.
 
-### 🏆 Notable Achievements
-- 🔬 **2 Patent-Pending AI Innovations** in personal styling and knowledge management
-- 🌟 **Full-Stack AI Applications** from concept to production deployment
-- 🎯 **Specialized in AI for Social Good** - environmental conservation and mental health platforms
+**KiHealth** — Two-stage transfer learning diabetes risk model achieving AUC 0.896 with 100% detection on confirmed cases. Foundation model validated on 23,716 external patients (AUC 0.949).
+
+**BioPrisma** — Clinical nutrition platform for registered dietitians featuring a drug-nutrient interaction pipeline powered by dual-LLM consensus and OpenFDA.
+
+**MuseAI** — Film production intelligence platform with 5 patent-pending AI systems.
+
+**BFF** — Cannabis recommendation PWA with proprietary biochemical terpene interaction modeling across 8,700+ strains. 90+ active users. Extended to psilocybin harm reduction for Amsterdam smart shops.
+
+---
+
+## Selected Research & Consulting Work
+
+**STARX Therapeutics / Dr. Justin Taylor — University of Miami** — Multi-target kinase inhibitor analysis across 58 cancer types using DepMap data. Delivered preliminary findings report and full presentation covering cancer indication prioritization and target vulnerability profiling.
+
+**Bergman Clinics / Dr. Maarten Moen** — Validated DOC system against Bergman synthetic dataset, built a native NRS outcome model outperforming the WOMAC-converted baseline, and developed conservative treatment models across eight treatment types.
+
+**Thomas Le Berre** — AI-driven coral reef biogeochemical parameter optimization.
+
+---
+
+## Background
+
+I'm the founder of **StroomAI**, an AI consulting firm working across healthcare AI, biochemical modeling, drug discovery, and predictive clinical systems. I hold **5 granted patents** with additional patents pending. My core differentiator is biochemical interaction modeling originally developed for cannabis therapeutics and adapted across oncology, osteoarthritis prediction, clinical nutrition, and psychedelic harm reduction.
+
+I'm self-taught in biochemistry and consider that a competitive advantage.
+
+---
+
+## Tech I Work With
+
+**AI/ML:** Python, scikit-learn, PyTorch, TensorFlow, XGBoost, transfer learning, LLM fine-tuning, OpenAI/Gemini/Anthropic APIs, SHAP, PROBAST validation  
+**Backend:** Node.js, PostgreSQL, Firebase, FastAPI, Streamlit  
+**Frontend:** React, React Native  
+**Infrastructure:** AWS, Docker, Git  
+**Domain:** Biochemical modeling, clinical prediction, NLP, computer vision, drug-nutrient/terpene interaction systems
+
+---
+
+## A Few Other Things
+
+- 5 patents pending spanning biochemical interaction modeling, clinical prediction, and film production intelligence
+- Film scripts featured in national and international festivals; stand-up comedy for roughly 200 people
+- Learning Dutch
+- Grew up around horses
+
+---
+
+**Parker@stroomai.com**  
+**stroomai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
